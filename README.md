@@ -1,4 +1,4 @@
-# Forecasting-and-analyzing-the-Financial-Market :man_scientist: :hugs: :computer:
+# Forecasting-and-analyzing-the-Financial-Market :man_scientist: :computer:
 
 
 ![screem.png](https://github.com/M-MSilva/Forecasting-and-analyzing-the-Financial-Market/blob/main/Images/allPictures.png) 
