@@ -36,6 +36,7 @@ The application is already running and it is not necessary to install anything o
 * [keras 2.8.0](https://faroit.com/keras-docs/2.0.8/);
 * [tensorflow 2.8](https://www.tensorflow.org/api_docs/python/tf);
 * [pandas datareader 0.9.0](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html#v0-9-0-july-10-2020);
+* [matplotlib 3.2.2](https://pypi.org/project/matplotlib/3.2.2/)
 * [scikit-learn 1.0.2](https://scikit-learn.org/stable/whats_new/v1.0.html).
 
 
@@ -67,6 +68,12 @@ pip install tensorflow==2.8.0
 ```
 ```bash
 pip install pandas_datareader==0.9.0
+```
+```
+pip install matplotlib==3.2.2
+```
+```
+pip install seaborn==0.11.2
 ```
 
 done, for information about jupyter notebook see:
