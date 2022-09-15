@@ -33,8 +33,7 @@ The application is already running and it is not necessary to install anything o
 * [seaborn 0.11.2](https://pypi.org/project/seaborn/0.11.2/);
 * [statsmodels](https://www.statsmodels.org/devel/release/version0.10.2.html);
 * [numpy 1.21.6](https://numpy.org/devdocs/release/1.21.6-notes.html);
-* [keras 2.8.0](https://faroit.com/keras-docs/2.0.8/);
-* [tensorflow 2.8](https://www.tensorflow.org/api_docs/python/tf);
+* [tensorflow 2.8](https://www.tensorflow.org/install?hl=pt-br);
 * [pandas datareader 0.9.0](https://pandas-datareader.readthedocs.io/en/latest/whatsnew.html#v0-9-0-july-10-2020);
 * [matplotlib 3.2.2](https://pypi.org/project/matplotlib/3.2.2/)
 * [scikit-learn 1.0.2](https://scikit-learn.org/stable/whats_new/v1.0.html).
@@ -43,7 +42,7 @@ The application is already running and it is not necessary to install anything o
 
 ### Running the Code
 
-The installations of the libraries are already explained in the links above, but if you want to be in the same versions I do:
+The installations of the libraries are already explained in the links above, type what is reported below for all libraries EXCEPT FOR TENSORFLOW AND KERAS, for the latter follow the links recommended above and use the same versions as me. So for the other libraries do::
 
 ```bash
 pip install scikit-learn==1.0.2
@@ -59,12 +58,6 @@ pip install imblearn==0.8.1
 ```
 ```bash
 pip install statsmodels==0.10.2
-```
-```bash
-pip install keras==2.8.0
-```
-```bash
-pip install tensorflow==2.8.0
 ```
 ```bash
 pip install pandas_datareader==0.9.0
